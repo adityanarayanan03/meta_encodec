@@ -1,0 +1,13 @@
+name: meta_encodec
+channels:
+  - defaults
+dependencies:
+  - transformers
+  - torchvision
+  - torchaudio
+  - pytorch::pytorch
+  - datasets
+  - pysoundfile
+  - librosa
+  - ipykernel
+prefix: /Users/aditya/miniconda3/envs/meta_encodec

@@ -1,0 +1,2 @@
+datasets==2.14.3
+transformers @ git+https://github.com/huggingface/transformers.git@d533465150532b0c5de167b574e59f64c68b1154
