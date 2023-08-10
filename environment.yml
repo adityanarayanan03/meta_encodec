@@ -2,6 +2,7 @@ name: meta_encodec
 channels:
   - defaults
 dependencies:
+  - python=3.9.17
   - transformers
   - torchvision
   - torchaudio
