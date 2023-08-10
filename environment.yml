@@ -7,7 +7,7 @@ dependencies:
   - torchaudio
   - pytorch::pytorch
   - datasets
-  - pysoundfile
-  - librosa
+  - conda-forge::pysoundfile
+  - conda-forge::librosa
   - ipykernel
 prefix: /Users/aditya/miniconda3/envs/meta_encodec
